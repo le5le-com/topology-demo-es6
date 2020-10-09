@@ -2,6 +2,18 @@
 
 如何使用 es6+webpack 方式编译使用的 demo
 
+**该案例是基于topology的es6demo改成适配最新插件版本的demo**
+
+目前对应插件版本
+```
+"@topology/activity-diagram": "^0.3.0",
+"@topology/class-diagram": "^0.3.0",
+"@topology/core": "^0.3.1",
+"@topology/flow-diagram": "^0.3.0",
+"@topology/sequence-diagram": "^0.3.0",
+```
+
+
 # Development
 
 ## 1. 安装依赖库

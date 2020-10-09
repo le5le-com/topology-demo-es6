@@ -14,12 +14,12 @@
   "author": "alsmile123@qq.com",
   "license": "MIT",
   "dependencies": {
-    "babel-core": "5",
-    "topology-activity-diagram": "^0.0.4",
-    "topology-class-diagram": "^0.0.1",
-    "topology-core": "^0.0.16",
-    "topology-flow-diagram": "^0.0.1",
-    "topology-sequence-diagram": "^0.0.4"
+    "@topology/activity-diagram": "^0.3.0",
+    "@topology/class-diagram": "^0.3.0",
+    "@topology/core": "^0.3.1",
+    "@topology/flow-diagram": "^0.3.0",
+    "@topology/sequence-diagram": "^0.3.0",
+    "babel-core": "5"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
